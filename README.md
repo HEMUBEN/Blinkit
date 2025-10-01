@@ -48,6 +48,37 @@ Over the last 3 years, our data analytics team has grown from one central team o
 11) Promotions, Discounts, Offers & Competitive Pricing
 12) Flexible Service Areas / Operations
 13) Adaptability → Business Model Shift
+# Client Questions
+1) What is the total sales revenue achieved across all outlets?
+2) How does the average sales per item ($141) compare across outlet types?
+3) What is the distribution of sales by fat content (Low Fat vs. Regular)?
+4) How do sales vary across outlet sizes (Small, Medium, High)?
+5) Which item category has the highest contribution to sales?
+6) What are the top 3 product categories driving overall revenue?
+7) Are there categories with low sales but high potential (e.g., Breakfast, Breads)?
+8) If you were the business manager, where would you focus to increase sales?
+# 5) Business Impact & Insights
+Blinkit’s dashboard shows strong sales in Tier 3 and larger outlets, high contribution from snacks & fresh produce, and moderate customer satisfaction. The business impact lies in improving ratings, expanding health products, leveraging Tier 1/2 growth, and optimizing smaller outlets to maximize market share.
+🔹 Business Impact
+* Revenue Growth Potential
+* Customer Experience
+* Market Segmentation Impact
+* Operational Focus
+🔹 Business Insights from Dashboard
+* Overall Sales Performance
+* Sales by Fat Content
+* Item Type Contribution
+* Outlet Size Performance
+* Outlet Location (Tier-wise Sales)
+* Outlet Type Analysis
+* Yearly Sales Trend
+
+
+
+
+
+
+
 
 
 
