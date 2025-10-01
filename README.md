@@ -20,14 +20,14 @@ Power BI – interactive dashboards for business teams.
 Tableau – for advanced visualization & executive reporting.
 Looker (Google Cloud) – often used with BigQuery for embedded analytics.
 Custom Dashboards – built using React.js, D3.js, Plotly, Grafana for operations (like live delivery tracking).
-4. Analytics & Machine Learning Integration
+5. Analytics & Machine Learning Integration
 Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow) → demand forecasting, delivery time prediction, customer segmentation.
 R → statistical modeling and advanced analytics.
-5. Monitoring & Real-time Ops Dashboard
+6. Monitoring & Real-time Ops Dashboard
 Grafana + Prometheus → for monitoring server performance, delivery tracking, and real-time KPIs.
 Elastic Stack (ELK: Elasticsearch, Logstash, Kibana) → for log analytics & operational dashboards.
 
-6. Blinkit-style dashboard project for your portfolio, the closest tech stack would be:
+7. Blinkit-style dashboard project for your portfolio, the closest tech stack would be:
 Database: MySQL/PostgreSQL
 ETL: Python + Pandas (or Airflow if you want real feel)
 Visualization: Power BI / Tableau
