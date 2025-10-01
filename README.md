@@ -15,3 +15,45 @@ Snowflake
 ETL Tools: Apache Airflow, Talend, Informatica → for scheduling and automating data pipelines.
 Big Data Frameworks: Apache Spark, Hadoop → for large-scale analytics.
 Streaming Tools: Kafka, Flink → for real-time updates (e.g., order status, live delivery tracking).
+3. Dashboard & Visualization
+Power BI – interactive dashboards for business teams.
+Tableau – for advanced visualization & executive reporting.
+Looker (Google Cloud) – often used with BigQuery for embedded analytics.
+Custom Dashboards – built using React.js, D3.js, Plotly, Grafana for operations (like live delivery tracking).
+4. Analytics & Machine Learning Integration
+Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow) → demand forecasting, delivery time prediction, customer segmentation.
+R → statistical modeling and advanced analytics.
+5. Monitoring & Real-time Ops Dashboard
+Grafana + Prometheus → for monitoring server performance, delivery tracking, and real-time KPIs.
+Elastic Stack (ELK: Elasticsearch, Logstash, Kibana) → for log analytics & operational dashboards.
+
+6. Blinkit-style dashboard project for your portfolio, the closest tech stack would be:
+Database: MySQL/PostgreSQL
+ETL: Python + Pandas (or Airflow if you want real feel)
+Visualization: Power BI / Tableau
+Advanced: Add a Kafka + Grafana layer for real-time dashboards.
+# 3) Data Sorces Blinkit Might Connect to
+Over the last 3 years, our data analytics team has grown from one central team of 4 to over 100 members. Our analysts are spread across our data team, business functions and data science teams. So needless to say, as both data and the team grew, our ways of working had to change to meet the demand of easy, collaborative data access without the bottlenecks of a central control room.
+# 4) Features
+1) Ultra-Fast Delivery (≈10 Minutes Promise)
+2) They operate many dark stores (micro-warehouses) placed very close to residential zones to enable this speed. 
+3) Dark Stores / Hyperlocal Fulfillment Centers
+4) Wide Product Range of Daily Essentials + More
+5) Multiple Payment Options & Safe Payments
+6) Real-Time Order Tracking
+7) Personalization & Recommendations
+8) Brand Stores / Custom Storefronts for Brands
+9) Dynamic / Local Inventory Display
+10) Operational Efficiency through Tech
+11) Promotions, Discounts, Offers & Competitive Pricing
+12) Flexible Service Areas / Operations
+13) Adaptability → Business Model Shift
+
+
+
+
+
+
+
+
+
