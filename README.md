@@ -71,7 +71,7 @@ Business Insights from Dashboard
 * Outlet Size Performance
 * Outlet Location (Tier-wise Sales)
 # 6) Blinkit Project Dashboard
-Show what the table looks like Dashboard Preview 
+Show what the table looks like Dashboard Preview (https://github.com/HEMUBEN/Blinkit/blob/main/Blinkit%20Dahboard.png)
   
 
 
