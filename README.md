@@ -59,12 +59,12 @@ Over the last 3 years, our data analytics team has grown from one central team o
 8) If you were the business manager, where would you focus to increase sales?
 # 5) Business Impact & Insights
 Blinkit’s dashboard shows strong sales in Tier 3 and larger outlets, high contribution from snacks & fresh produce, and moderate customer satisfaction. The business impact lies in improving ratings, expanding health products, leveraging Tier 1/2 growth, and optimizing smaller outlets to maximize market share.
-🔹 Business Impact
+Business Impact
 * Revenue Growth Potential
 * Customer Experience
 * Market Segmentation Impact
 * Operational Focus
-🔹 Business Insights from Dashboard
+Business Insights from Dashboard
 * Overall Sales Performance
 * Sales by Fat Content
 * Item Type Contribution
