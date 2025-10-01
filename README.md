@@ -70,8 +70,9 @@ Business Insights from Dashboard
 * Item Type Contribution
 * Outlet Size Performance
 * Outlet Location (Tier-wise Sales)
-* Outlet Type Analysis
-* Yearly Sales Trend
+# 6) Blinkit Project Dashboard
+Show what the table looks like Dashboard Preview 
+  
 
 
 
